@@ -1,0 +1,28 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "hach \u001b[k github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cradle0fFilth/github-bot.git"
+  },
+  "keywords": [
+    "\u0016cradle0fFilth"
+  ],
+  "author": "\u001b[A\u001b[C\u001b[Bcradle0fFilth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cradle0fFilth/github-bot/issues"
+  },
+  "homepage": "https://github.com/cradle0fFilth/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^4.1.0",
+    "simple-git": "^3.16.1"
+  }
+}
