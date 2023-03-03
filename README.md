@@ -7,5 +7,9 @@ you must have npm to run javascript
 1.git clone repository  
 2.build your own repository  
 3.npm i                 
-4.node index.js        
+4.node index.js      
+
+# how to modify default time for commit  
+
+change 100 to any number.
 
